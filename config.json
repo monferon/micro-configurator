@@ -1,0 +1,7 @@
+{
+  "localEndpoint": ["1","2","3"],
+  "remoteEndpoint": ["4","5","6", "7"],
+  "RabbitMQAddress": "1234567:5601",
+  "RmqTest": "01235678912301235245",
+  "RmqTesttt": "0"
+}
